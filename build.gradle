@@ -52,6 +52,8 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-log4j2'
     implementation 'org.springframework.cloud:spring-cloud-starter-config'
     implementation 'org.modelmapper:modelmapper:3.2.0'
+    implementation 'org.springframework.cloud:spring-cloud-starter-vault-config'
+    implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-client'
 
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
 
