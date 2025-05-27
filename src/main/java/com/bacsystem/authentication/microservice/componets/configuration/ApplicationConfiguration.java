@@ -1,7 +1,6 @@
 package com.bacsystem.authentication.microservice.componets.configuration;
 
 import lombok.extern.log4j.Log4j2;
-import org.springframework.beans.factory.annotation.Configurable;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
